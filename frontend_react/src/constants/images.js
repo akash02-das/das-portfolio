@@ -9,6 +9,7 @@ import mu5 from "../assets/mu5.png";
 import node from "../assets/node.png";
 import react from "../assets/react.png";
 import redux from "../assets/redux.png";
+import ruby from "../assets/ruby.png";
 import sass from "../assets/sass.png";
 import typescript from "../assets/typescript.png";
 
@@ -33,6 +34,7 @@ export default {
   node,
   react,
   redux,
+  ruby,
   sass,
   typescript,
   about01,
