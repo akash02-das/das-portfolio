@@ -3,6 +3,12 @@
   font-family: var(--font-base);
 }
 
+.app__divider {
+  border: 1px solid var(--lightGray-color);
+  width: 20%;
+  margin: 0 auto;
+}
+
 .app__whitebg {
   background-color: var(--white-color);
 }

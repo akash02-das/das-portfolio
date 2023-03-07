@@ -12,6 +12,7 @@ const App = () => {
       <About />
       <Work />
       <Skills />
+      <div className="app__divider" />
       <Footer />
     </div>
   );
